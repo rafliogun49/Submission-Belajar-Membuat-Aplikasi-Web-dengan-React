@@ -111,6 +111,11 @@ textarea {
   justify-content: center;
   margin: 1rem auto;
 }
+@media (max-width: 800px) {
+  .input-form {
+    width: 90vw;
+  }
+}
 
 .form {
   gap: 1rem;
