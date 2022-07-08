@@ -7,3 +7,5 @@ This is my submission for Belajar Membuat Aplikasi Web dengan React at Dicoding.
 special notes: don't copy paste this code for your submission at dicoding, just saw it if you are confused with the submission
 
 Thanks
+
+Link of project: https://submission-react-web-dicoding-rafli.netlify.app/
